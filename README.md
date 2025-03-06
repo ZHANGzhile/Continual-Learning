@@ -35,4 +35,4 @@ NLAM repose sur 5 composants clés :
 
 Chaque composant joue un rôle essentiel pour permettre au modèle d’apprendre **sans effacer** les connaissances acquises.
 
-Si vous êtes intéressé, n'hésitez pas à regarder la présentation que j'ai mise sur le répertoire.
+## **Si vous êtes intéressé l'architecture, n'hésitez pas à regarder la présentation que j'ai mise sur le répertoire**.
