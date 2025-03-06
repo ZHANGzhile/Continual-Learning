@@ -34,3 +34,5 @@ NLAM repose sur 5 composants clés :
 5. **Mécanisme d'oubli adaptatif (Forgetting Mechanism)** qui empêche l'accumulation d'informations inutiles.
 
 Chaque composant joue un rôle essentiel pour permettre au modèle d’apprendre **sans effacer** les connaissances acquises.
+
+Si vous êtes intéressé, n'hésitez pas à regarder la présentation que j'ai mise sur le répertoire.
